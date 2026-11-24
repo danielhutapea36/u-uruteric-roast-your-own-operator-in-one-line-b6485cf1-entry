@@ -18,7 +18,9 @@ he built the agent to save him time, then spends the saved time
 auditing whether the time was saved. The paradox turns on itself
 in the last words — "actually saved it" — and the jab is warm:
 it teases a careful, hands-on operator who checks everything,
-the way a friend teases, not the way an enemy attacks.
+the way a friend teases, not the way an enemy attacks. Nothing
+in the line needs explaining: a stranger reading it cold gets
+the joke from the premise alone, and the premise is the punch.
 """
 
 import os
